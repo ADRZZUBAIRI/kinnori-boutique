@@ -1,0 +1,7 @@
+name = "kinnori-boutique"
+main = "main.js"
+compatibility_date = "2026-09-28"
+
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
