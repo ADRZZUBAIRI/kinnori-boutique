@@ -1,5 +1,4 @@
 name = "kinnori-boutique"
-main = "main.js"
 compatibility_date = "2026-09-28"
 
 [assets]
